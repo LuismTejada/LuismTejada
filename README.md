@@ -16,6 +16,6 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[[twitter]: https://twitter.com/Josh](https://twitter.com/LuisTej66468171)
+[[instagram]: https://www.instagram.com/Josh](https://www.instagram.com/t_luis2/)
+[[linkedin]: https://linkedin.com/in/Josh](https://www.linkedin.com/in/luis-tejada-3b4172164/)https://www.linkedin.com/in/luis-tejada-3b4172164/
